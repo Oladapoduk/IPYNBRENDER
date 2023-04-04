@@ -21,7 +21,7 @@ f"tests/integration/__init__.py",
 "requirements_dev.txt",
 "requirements.txt",
 "setup.py",
-"pyproject.toml"
+"pyproject.toml", 
 'setup.cfg',
 "tox.ini"
 ]
